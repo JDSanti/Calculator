@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a\ operator\ b
+comment0.target=int\ binaryOperator(int,\ char,\ int)
+comment1.params=operator\ a
+comment1.target=int\ unaryOperator(char,\ int)
+numComments=2
