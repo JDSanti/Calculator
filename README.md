@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jose Santiago - [@your_twitter](https://twitter.com/Capt_Santiago) - jduhamel.santiago@gmail.com
+Jose Santiago - [@Capt_Santiago](https://twitter.com/Capt_Santiago) - jduhamel.santiago@gmail.com
 
 Project Link: [https://github.com/JDSanti/Calculator](https://github.com/JDSanti/Calculator)
 
