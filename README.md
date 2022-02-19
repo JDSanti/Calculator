@@ -114,7 +114,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Jose Santiago - [@your_twitter](https://twitter.com/Capt_Santiago) - jduhamel.santiago@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/JDSanti/Calculator](https://github.com/JDSanti/Calculator)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
